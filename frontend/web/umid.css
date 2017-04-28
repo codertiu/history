@@ -1,0 +1,15 @@
+.top-color{
+	background-color:#5DC904 !important;
+}
+.top-header{
+	background-color:#5FA7FF;
+}
+.bg-pattern3 {
+    background: url(images/bg/body_bg.jpg) repeat fixed center 0 #F1F1F1;
+}
+.footer-color{
+	background-color: #AFDC89 !important;
+}
+#full-wrapper {
+	width: 100%;
+}
